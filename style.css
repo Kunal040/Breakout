@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+background-color:#000000;
+}
+#myCanvas{
+	background-color: #eee;
+	display: block;
+	margin-top: 50px;
+	margin-left: 30%;
+}
+#name{
+color:red;
+text-align:center;
+margin-top:10px;
+border-bottom:1px solid yellow;
+
+}
+#sum{
+	position: absolute;
+	color: white;
+	margin-left: 15%;
+}
+#hel{
+	float: right;
+}
